@@ -15,7 +15,7 @@ const styles = theme =>({
     display:'flex',
      flexDirection: 'column',
      alignItems: 'center',
-     justifyContent:'center'
+     justifyContent:'center',
   },
   names:{
     marginLeft:50,
@@ -35,6 +35,7 @@ const styles = theme =>({
   about:{
     color:'#e4e9f2',
     fontSize: 25,
+    paddingBottom:100
   }
  
 })
