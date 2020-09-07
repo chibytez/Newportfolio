@@ -41,11 +41,14 @@ const styles = theme =>({
   },
   picture:{
     borderRadius:"50%",
+    display:'flex',
+    flexDirection: 'column',
+    alignItems: 'center',
+    justifyContent:'center',
     marginTop:100,
     marginBottom:0,
-    marginLeft:70,
     height:600,
-    weight:400
+    weight:300
   },
   ware:{
     color:'#e4e9f2',
