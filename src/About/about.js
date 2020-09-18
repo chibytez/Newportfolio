@@ -32,13 +32,18 @@ const About = (props) => {
           <Grid item xs={12}>
             <Paper>
             <Typography>
-              <p className={classes.info}>I'm a Software developer with Above Two(2) years of experience in 
-                 web and software development. I am also a Quality Assurance Specialist(Software Tester).I 
-                 am a self taught developer. I've been investing an insane amount of hours in self development, 
-                 ever ready to learn, build, ship and improve top class software solutions using world class tools.
-                  I have a strong passion for technology especially software. I'm also a good team player with
-                   excellent commmunication skills. I'm enthusiastic about using technology to solve real world 
-                   problems and I'm ever ready to be involved in building the next big thing.</p>
+              <p className={classes.info}>I'm a Software developer with Above 
+                Two(2) years of experience in web and software development. I am
+                also a Quality Assurance Specialist(Software Tester).I am a 
+                self-taught developer. I've been investing an insane amount 
+                of hours in self-development, ever ready to learn, build, ship, 
+                and improve top class software solutions using world-class tools.
+                I have a strong passion for technology, especially software. 
+                I'm also a good team player with excellent communication 
+                skills. I'm enthusiastic about using technology to solve 
+                real-world problems and I'm ever ready to be involved in 
+                building the next big thing. 
+              </p>
             </Typography>
             </Paper>
           </Grid>
@@ -82,12 +87,17 @@ const About = (props) => {
                   <ol>NodeJs</ol>
                   <ol>React</ol>
                   <ol>Javascript</ol>
+                  <ol>Graphql</ol>
                   <ol>CSS</ol>
+                  <ol>HTML</ol>
+                  
                 
               </Grid>
               <Grid item xs  className={classes.soft}>
-                  <ol>HTML</ol>
-                  <ol>ADB Debugging</ol>
+                  <ol>UAT Testing</ol>
+                  <ol>Smoke Testing</ol>
+                  <ol>Documentation</ol>
+                  <ol>ADB</ol>
                   <ol>Traffic Testing</ol>
                   <ol>Testing</ol>
               </Grid>
