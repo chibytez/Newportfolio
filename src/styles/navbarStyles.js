@@ -27,7 +27,6 @@ const styles = theme =>({
   social:{
     position:'absolute',
     right:20,
-    spacing:50
   }
   
 })

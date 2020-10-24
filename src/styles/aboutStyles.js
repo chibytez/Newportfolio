@@ -48,11 +48,11 @@ const styles = theme =>({
     marginTop:100,
     marginBottom:0,
     height:600,
-    weight:300
+    weight:300,
   },
   ware:{
     color:'#e4e9f2',
-    marginBottom:0
+    marginBottom:0,
   },
  dev:{
   color:'#79912a',

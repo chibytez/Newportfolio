@@ -33,9 +33,9 @@ function Header (props){
                 hideNav={()=>hideNav()}
               />
               <div className={classes.social}>
-                <GitHubIcon aria-label="github.com" onClick={() => window.open('https://github.com/chibytez')}/>
-                <FacebookIcon  aria-label="facebook.com" onClick={() => window.open('https://web.facebook.com/chibytez/')}/>
-                <LinkedInIcon aria-label="Linkedin.com" onClick={() => window.open('https://www.linkedin.com/in/aniaku-chibuike-505311129/')}/>
+                <GitHubIcon style={{paddingLeft: 10 }} aria-label="github.com" onClick={() => window.open('https://github.com/chibytez')}/>
+                <FacebookIcon style={{paddingLeft: 10 }} aria-label="facebook.com" onClick={() => window.open('https://web.facebook.com/chibytez/')}/>
+                <LinkedInIcon style={{paddingLeft: 10 }} aria-label="Linkedin.com" onClick={() => window.open('https://www.linkedin.com/in/aniaku-chibuike-505311129/')}/>
               </div>
               <div className={classes.grow}/>
             </Toolbar>

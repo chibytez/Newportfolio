@@ -18,17 +18,17 @@ const Works = (props) => {
          <h1 className={classes.project}>Backend <span  className={classes.seperate}>Projects</span></h1>
         </Grid>  
         <Grid item xs={12}>
-         <Link href='https://github.com/chibytez/MyWayFarer'>
+         <Link style={{ textDecoration: 'none' }} href='https://github.com/chibytez/MyWayFarer'>
            <p className={classes.projects}>My WayFarer App</p>
          </Link>
         </Grid>
         <Grid item xs={12}>
-         <Link href='https://github.com/chibytez/My-Banka'>
+         <Link style={{ textDecoration: 'none' }} href='https://github.com/chibytez/My-Banka'>
            <p className={classes.projects}>My Banka App</p>
          </Link>
         </Grid>   
         <Grid item xs={12}>
-         <Link href='https://github.com/chibytez/Fast-Food-Fast'>
+         <Link style={{ textDecoration: 'none' }} href='https://github.com/chibytez/Fast-Food-Fast'>
            <p className={classes.projects}>Fast Food App</p>
          </Link>
         </Grid> 
@@ -38,12 +38,12 @@ const Works = (props) => {
          <h1 className={classes.project}>Frontend <span  className={classes.seperate}>Projects</span></h1>
         </Grid>  
           <Grid item xs={12}>
-            <Link href='https://chibytez.github.io/shopmate/'>
+            <Link style={{ textDecoration: 'none' }} href='https://chibytez.github.io/shopmate/'>
               <p className={classes.projects}>Shopmate</p>
             </Link>
           </Grid>
           <Grid item xs={12}>
-            <Link href='https://github.com/chibytez/TodoWithCOontext'>
+            <Link style={{ textDecoration: 'none' }} href='https://github.com/chibytez/TodoWithCOontext'>
               <p className={classes.projects}>Todo App</p>
             </Link>
           </Grid>      
@@ -53,12 +53,12 @@ const Works = (props) => {
          <h1 className={classes.project}>FullStack <span  className={classes.seperate}>Projects</span></h1>
         </Grid>  
           <Grid item xs={12}>
-              <Link href='https://salty-headland-32091.herokuapp.com/'>
+              <Link style={{ textDecoration: 'none' }} href='https://salty-headland-32091.herokuapp.com/'>
                 <p className={classes.projects}>My Dairy App</p>
               </Link>
           </Grid>
           <Grid item xs={12}>
-              <Link href='https://github.com/chibytez/nba-app-full/'>
+              <Link style={{ textDecoration: 'none' }} href='https://github.com/chibytez/nba-app-full/'>
                 <p className={classes.projects}>My Nba App</p>
               </Link>
           </Grid>    

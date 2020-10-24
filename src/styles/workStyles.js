@@ -37,7 +37,10 @@ const styles = theme =>({
     color:'#e4e9f2',
     marginTop:0,
     marginBottom:0,
-    marginLeft:40
+    marginLeft:40,
+    '&:hover': {
+      background: "#40403f",
+   }
   }
   
 });

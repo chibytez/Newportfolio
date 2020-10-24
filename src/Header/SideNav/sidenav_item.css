@@ -10,7 +10,9 @@
   color:inherit;
   text-decoration: none;
 }
-
+.navItem a:hover {
+  background: #40403f;
+}
 .navItem span {
   color:white;
   margin-right:10px;
