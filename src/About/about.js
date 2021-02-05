@@ -94,12 +94,12 @@ const About = (props) => {
                 
               </Grid>
               <Grid item xs  className={classes.soft}>
-                  <ol>UAT Testing</ol>
-                  <ol>Smoke Testing</ol>
+                  <ol>Manuel Testing</ol>
+                  <ol>Automation Testing</ol>
                   <ol>Documentation</ol>
-                  <ol>ADB</ol>
+                  <ol>Selenium</ol>
                   <ol>Traffic Testing</ol>
-                  <ol>Testing</ol>
+                  <ol>ADB</ol>
               </Grid>
              </Grid>
             </Grid>
