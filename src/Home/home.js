@@ -10,7 +10,7 @@ const Home = (props) => {
       <Typography>
         <div className={classes.names}>
           <h1 className={classes.firstname}>Chibuike <span className={classes.lastname}> Aniaku</span> </h1> 
-          <div className={classes.about}>Software Developer And Quality Assurance Engineer</div>
+          <div className={classes.about}>Quality Assurance Automation  Engineer</div>
         </div>
        
       </Typography>

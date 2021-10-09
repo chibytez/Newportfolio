@@ -32,17 +32,26 @@ const About = (props) => {
           <Grid item xs={12}>
             <Paper>
             <Typography>
-              <p className={classes.info}>I'm a Software developer with Above 
-                Two(2) years of experience in web and software development. I am
-                also a Quality Assurance Specialist(Software Tester).I am a 
-                self-taught developer. I've been investing an insane amount 
-                of hours in self-development, ever ready to learn, build, ship, 
-                and improve top class software solutions using world-class tools.
-                I have a strong passion for technology, especially software. 
-                I'm also a good team player with excellent communication 
-                skills. I'm enthusiastic about using technology to solve 
-                real-world problems and I'm ever ready to be involved in 
-                building the next big thing. 
+              <p className={classes.info}> 
+              I’ve been a QA (manual and automation) for over
+4 years, recently focused on detecting defects on applications and making sure end result meets
+the business and user requirements.
+I am currently working as a Quality Assurance/Test Engineer with the development team at
+Parkway Project Limited, where we build and maintain various products running on the
+platform. I’ve been able to learn how to automate both mobile and web applications using
+clean test scripts, and interact with other team members like developers, designers, product
+managers, etc. I am currently leading in the testing of a multi-delivery products that aimed to
+provides simple, intuitive, end-to-end corporate, retail and transaction banking solutions. I’ve also picked
+up interest in penetration testing using burp suite as its usage has been growing in recent
+times. At Opera, I was the lead local software tester for Nigeria, I locally test various Opera products
+like Opera Mini and Opera News. When I am not working, I can be found watching sci-fi movies
+and series or on my PlayStation.
+With my determination, passion for software development, and the ability to adapt to new
+languages, and environments, I believe I will be a good fit as a Quality Assurance/Test Engineer.
+Having used JavaScript (Node.js, React, Graphql), Postman (automation and manual), Jmeter
+and test automation tools like Selenium, Cypress and Appium for about 4+ years.
+
+
               </p>
             </Typography>
             </Paper>
@@ -90,16 +99,18 @@ const About = (props) => {
                   <ol>Graphql</ol>
                   <ol>CSS</ol>
                   <ol>HTML</ol>
+                  <ol>Git</ol>
                   
                 
               </Grid>
               <Grid item xs  className={classes.soft}>
                   <ol>Manuel Testing</ol>
                   <ol>Automation Testing</ol>
-                  <ol>Documentation</ol>
+                  <ol>Appium</ol>
                   <ol>Selenium</ol>
-                  <ol>Traffic Testing</ol>
-                  <ol>ADB</ol>
+                  <ol>Cypress</ol>
+                  <ol>Postman</ol>
+                  <ol>Jmeter</ol>
               </Grid>
              </Grid>
             </Grid>
